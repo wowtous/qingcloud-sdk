@@ -1,0 +1,32 @@
+{
+  "name": "qingcloud-sdk",
+  "version": "0.1.0",
+  "description": "qingcloud sdk & cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Pana/qingcloud-sdk.git"
+  },
+  "keywords": [
+    "qing",
+    "qingcloud",
+    "sdk",
+    "cli",
+    "qingyun"
+  ],
+  "author": "Pana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pana/qingcloud-sdk/issues"
+  },
+  "homepage": "https://github.com/Pana/qingcloud-sdk",
+  "dependencies": {
+    "request": "~2.30.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.16.2"
+  }
+}
